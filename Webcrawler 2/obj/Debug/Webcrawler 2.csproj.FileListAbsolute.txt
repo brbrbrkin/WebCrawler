@@ -1,0 +1,24 @@
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\Webcrawler 2.exe.config
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\Webcrawler 2.exe
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\Webcrawler 2.pdb
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\obj\Debug\Webcrawler 2.csproj.App.config
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\obj\Debug\Webcrawler 2.csprojAssemblyReference.cache
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\obj\Debug\Webcrawler 2.csproj.CopyComplete
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\obj\Debug\Webcrawler 2.exe
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\obj\Debug\Webcrawler 2.pdb
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\x86\sqlite3.dll
+C:\Users\Hércules\source\repos\Webcrawler 2\Webcrawler 2\bin\Debug\x64\sqlite3.dll
